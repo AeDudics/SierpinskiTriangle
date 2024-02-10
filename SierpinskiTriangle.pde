@@ -1,9 +1,5 @@
-  public void settings() {
-    size(400, 400);
-  }
-
   public void setup(){
-    //empty!
+    size(400, 400);
   }
   public void draw(){
     sierpinski(25,375,350);
