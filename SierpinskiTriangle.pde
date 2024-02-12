@@ -3,10 +3,10 @@
     background(0);
   }
   public void draw(){
+    stroke(255, 59, 85);
+    sierpinski(50,375,350);
     stroke(223, 243, 245);
     sierpinski(25,375,350);
-    stroke(255, 59, 85);
-    sierpinski(75,375,350);
   }
 
   public void sierpinski(int x, int y, int len) {
