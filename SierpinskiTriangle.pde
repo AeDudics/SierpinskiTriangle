@@ -15,4 +15,3 @@
       sierpinski(x+len/4, y-len/2, len/2);
     }
   }
-}
