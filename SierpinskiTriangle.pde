@@ -1,8 +1,9 @@
   public void setup(){
     size(400, 400);
-    background(255);
+    background(0);
   }
   public void draw(){
+    stroke(223, 243, 245);
     sierpinski(25,375,350);
   }
 
